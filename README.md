@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexd321
-- 👀 I’m interested in new sensors and interesting new data sources
+- 👀 I’m interested in new sensors and interesting new data sources and AI for spectroscopic analysis
 - 🌱 I’m currently learning how to write more advanced lambdas
 - 📫 How to reach me PM
 
